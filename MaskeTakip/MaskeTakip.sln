@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workaround", "Workaround\Workaround.csproj", "{EDEA0BE4-2729-4EEB-ACA3-89A6B3C9E6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{E5F684BB-53D2-438C-A089-00F2A952714D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{39325B8B-3F57-4D94-9A1B-D43FF7453319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDEA0BE4-2729-4EEB-ACA3-89A6B3C9E6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEA0BE4-2729-4EEB-ACA3-89A6B3C9E6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEA0BE4-2729-4EEB-ACA3-89A6B3C9E6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEA0BE4-2729-4EEB-ACA3-89A6B3C9E6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F684BB-53D2-438C-A089-00F2A952714D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F684BB-53D2-438C-A089-00F2A952714D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F684BB-53D2-438C-A089-00F2A952714D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F684BB-53D2-438C-A089-00F2A952714D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39325B8B-3F57-4D94-9A1B-D43FF7453319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39325B8B-3F57-4D94-9A1B-D43FF7453319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39325B8B-3F57-4D94-9A1B-D43FF7453319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39325B8B-3F57-4D94-9A1B-D43FF7453319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29709C18-2BCB-4010-98F6-46A1F8A42455}
+	EndGlobalSection
+EndGlobal
