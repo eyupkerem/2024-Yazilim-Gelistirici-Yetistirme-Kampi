@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Day2\\Day2\\Day2.csproj": {}
+    "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\Day2\\Day2\\Day2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Day2\\Day2\\Day2.csproj": {
+    "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\Day2\\Day2\\Day2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Day2\\Day2\\Day2.csproj",
+        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\Day2\\Day2\\Day2.csproj",
         "projectName": "Day2",
-        "projectPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Day2\\Day2\\Day2.csproj",
+        "projectPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\Day2\\Day2\\Day2.csproj",
         "packagesPath": "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Day2\\Day2\\obj\\",
+        "outputPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\Day2\\Day2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEREM MALKOC\\AppData\\Roaming\\NuGet\\NuGet.Config",

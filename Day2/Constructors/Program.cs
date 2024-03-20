@@ -6,13 +6,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Costumer costumer = new Costumer(); 
+        Costumer costumer = new Costumer(1,"Ahmet","Gunay","Ankara"); 
     }
 }
 
 class Costumer
 {
-    public Costumer()
+    public Costumer(int id,string firstName,string lastName,string city)
     {
         
     }
