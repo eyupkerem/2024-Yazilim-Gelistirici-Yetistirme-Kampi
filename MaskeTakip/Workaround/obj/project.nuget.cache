@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TJJ6eXA3EwjhjEkqjqZLqial2nMpyy19NHXc6DtytL6Jhsdmp4VZ8bzpPXbntWKw4LawVGoQtgV+Hco/SlI4+A==",
+  "dgSpecHash": "rEugonp38yTUfw8wDYCOv5HN/asLcXf+VBQIrr2riUrndS86XQqAZW5+I9LqVkA/rBUWhn3Ed9Iuwp3Vzqe8OQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Workaround\\Workaround.csproj",
+  "projectFilePath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Workaround\\Workaround.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

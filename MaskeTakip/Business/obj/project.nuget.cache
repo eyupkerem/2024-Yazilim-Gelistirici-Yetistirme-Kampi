@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A/6haBe4sy2kbqJ07iXN/XKEiZCNbHrnbPtQmI30fastNilsPGLS7VRGkls2XReGzPn2P8e6ZbaRgw74XFmUSA==",
+  "dgSpecHash": "J2SpVWaaGhqIazQXgpj3vfXjo95SgEUDMyzqNvqhWpxzzZz5kNTsfdMzbar8iSGKeHEk7dTggVPsj8Zrq+ryVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

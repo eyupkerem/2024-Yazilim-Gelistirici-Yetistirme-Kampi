@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Entities
-build_property.ProjectDir = C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Github Projeleri\MaskeTakip\Entities\
+build_property.ProjectDir = C:\Users\KEREM MALKOC\Documents\GitHub\2024-Yazilim-Gelistirici-Yetistirme-Kampi\MaskeTakip\Entities\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

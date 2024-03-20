@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Workaround\\Workaround.csproj": {}
+    "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Workaround\\Workaround.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Business\\Business.csproj": {
+    "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Business\\obj\\",
+        "outputPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEREM MALKOC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj"
+              "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj": {
+    "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEREM MALKOC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +140,14 @@
         }
       }
     },
-    "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Workaround\\Workaround.csproj": {
+    "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Workaround\\Workaround.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Workaround\\Workaround.csproj",
+        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Workaround\\Workaround.csproj",
         "projectName": "Workaround",
-        "projectPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Workaround\\Workaround.csproj",
+        "projectPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Workaround\\Workaround.csproj",
         "packagesPath": "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Workaround\\obj\\",
+        "outputPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Workaround\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEREM MALKOC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -164,8 +164,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Business\\Business.csproj"
+              "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Business\\Business.csproj"
               }
             }
           }

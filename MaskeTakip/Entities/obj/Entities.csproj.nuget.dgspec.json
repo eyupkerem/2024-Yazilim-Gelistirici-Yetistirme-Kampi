@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj": {}
+    "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj": {
+    "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\KEREM MALKOC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KEREM MALKOC\\Desktop\\2024 Yazılımcı Geliştirme Kampı Dersleri\\Github Projeleri\\MaskeTakip\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\KEREM MALKOC\\Documents\\GitHub\\2024-Yazilim-Gelistirici-Yetistirme-Kampi\\MaskeTakip\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KEREM MALKOC\\AppData\\Roaming\\NuGet\\NuGet.Config",
