@@ -1,0 +1,14 @@
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\bin\Debug\net8.0\Day2.exe
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\bin\Debug\net8.0\Day2.deps.json
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\bin\Debug\net8.0\Day2.runtimeconfig.json
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\bin\Debug\net8.0\Day2.dll
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\bin\Debug\net8.0\Day2.pdb
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfoInputs.cache
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\Day2.AssemblyInfo.cs
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\Day2.csproj.CoreCompileInputs.cache
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\Day2.dll
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\refint\Day2.dll
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\Day2.pdb
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\Day2.genruntimeconfig.cache
+C:\Users\KEREM MALKOC\Desktop\2024 Yazılımcı Geliştirme Kampı Dersleri\Day2\Day2\obj\Debug\net8.0\ref\Day2.dll
